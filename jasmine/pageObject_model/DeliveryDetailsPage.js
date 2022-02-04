@@ -23,4 +23,4 @@ export class DeliveryDetailsPage extends BasicPage {
     }
 }
 
-export let DeliveryDetails = new DeliveryDetailsPage();
+export let deliveryDetailsPage = new DeliveryDetailsPage();
