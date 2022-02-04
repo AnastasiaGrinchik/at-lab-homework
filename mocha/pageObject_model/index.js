@@ -1,5 +1,5 @@
-export { BasicDriver } from './BasicPage.js';
-export { AwesomeShopHome } from './AwesomeShopHomePage.js';
-export { ProductOptionsForm } from './ProductOptionsPage.js';
-export { ConsiceCartOverview } from './ConsiceShoppingCartOverview.js';
-export { FullCartOverview } from './FullShoppingCartOverview.js';
+export { basicPage } from './BasicPage.js';
+export { awesomeShopHomePage } from './AwesomeShopHomePage.js';
+export { productOptionsPage } from './ProductOptionsPage.js';
+export { consiceShoppingCartOverviewPage } from './ConsiceShoppingCartOverviewPage.js';
+export { fullShoppingCartOverviewPage } from './FullShoppingCartOverviewPage.js';
