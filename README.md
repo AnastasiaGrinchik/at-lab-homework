@@ -24,7 +24,7 @@
 15. Don’t forget to close the browser :)
 
 ## Scenario for WDIO + Jasmine
-### Pre-condition: You have a Registered User on E-shop https://awesome-shop.ru/ (do it on your own before scripting test).
+Pre-condition: You have a Registered User on E-shop https://awesome-shop.ru/ (do it on your own before scripting test).
 1. Open https://awesome-shop.ru/
 2. Login with your User from Pre-condition
 3. Return to the home page
@@ -45,5 +45,7 @@
 18. Assert that successful message of order placing is exist
 19. Assert that order is exist in order history of current user
 20. Don’t forget to close the browser :)
+
+## Cypress(without Page Object Models!)
 
 
